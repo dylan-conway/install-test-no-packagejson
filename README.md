@@ -1,0 +1,1 @@
+# install-test-no-packagejson
